@@ -1,0 +1,74 @@
+body{
+	margin:0px;
+	padding:0px;
+	text-align:center;
+}
+#logo{
+	display:inline;
+	margin:5px;
+}
+#menu{
+	background:#efe;
+	border-bottom:1px solid #aaa;
+	width:100%;
+}
+#menu-item{
+	border-right:1px solid #aaa;
+	padding:5px;
+}
+#menu-items{
+
+}
+#main{
+padding:25px;
+padding-top:0px;
+margin:auto;
+width:80%;
+height:100%;
+background:#fcfcfc;
+border-left:1px solid #aaa;
+border-right:1px solid #aaa;
+text-align:center;
+overflow:auto;
+}
+#newPaste{
+	display:inline-block;
+	text-align:left;
+	padding:5px;
+	width:100%;
+}
+
+#paste{
+	height:50%;
+	width:50%;
+}
+
+#displayPaste{
+	display:inline-block;
+	padding:5px;
+	width:100%;
+	text-align:left;
+}
+a{
+	color:#000;
+	text-decoration:none;
+}
+#pasteitem{
+	border:1px solid #ccc;
+	padding:10px;
+	margin:2%;
+}
+input{
+margin:5px;
+
+}
+#statuslink{
+	color:#11c;
+	text-decoration:underline;
+}
+#status{
+	padding:10px;
+	background:#fdd;
+	border-radius:5px;
+	border:2px solid #daa;
+}
